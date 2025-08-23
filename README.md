@@ -1,5 +1,5 @@
 # Intergraphia
-This notebook demonstrates a methodology for analyzing networks of people to explore the nuanced concept of "invisibilisation" within intellectual communities. By constructing a graph where nodes represent individuals and edges represent connections based on shared attributes (like nationality), and by computing metrics such as the Epistemic Violence Index (EVI) and community detection, we gain valuable tools to move beyond simple rankings of influence.
+This notebooks demonstrate a methodology for analyzing networks of people to explore the nuanced concept of "invisibilisation" within intellectual communities. By constructing a graph where nodes represent individuals and edges represent connections based on shared attributes (like nationality), and by computing metrics such as the Epistemic Violence Index (EVI) and community detection, we gain valuable tools to move beyond simple rankings of influence.
 
 Instead of solely identifying the most central or highly-ranked individuals, this approach allows us to:
 
